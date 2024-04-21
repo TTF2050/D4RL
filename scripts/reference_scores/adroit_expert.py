@@ -8,7 +8,7 @@ Instructions:
 import d4rl
 import argparse
 import os
-import gym
+import gymnasium as gym
 import numpy as np
 import pickle
 from mjrl.utils.gym_env import GymEnv

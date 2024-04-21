@@ -1,6 +1,6 @@
 import numpy as np
 import argparse
-import gym
+import gymnasium as gym
 import d4rl.flow
 from d4rl.utils import dataset_utils
 

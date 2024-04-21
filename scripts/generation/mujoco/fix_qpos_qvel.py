@@ -2,7 +2,7 @@ import numpy as np
 import argparse
 import d4rl
 import d4rl.offline_env
-import gym
+import gymnasium as gym
 import h5py
 import os
 

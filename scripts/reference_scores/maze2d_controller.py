@@ -1,5 +1,5 @@
 import d4rl
-import gym
+import gymnasium as gym
 from d4rl.pointmaze import waypoint_controller
 from d4rl.pointmaze import maze_model
 import numpy as np

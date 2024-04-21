@@ -34,7 +34,7 @@ def check_identical_values(dset):
 
 def check_qpos_qvel(dset):
     """ Check that qpos/qvel produces correct state"""
-    import gym
+    import gymnasium as gym
     import d4rl
 
     N = dset['rewards'].shape[0]

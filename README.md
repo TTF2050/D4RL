@@ -45,7 +45,7 @@ Each task is associated with a fixed offline dataset, which can be obtained with
 You can also load data using `d4rl.qlearning_dataset(env)`, which formats the data for use by typical Q-learning algorithms by adding a `next_observations` key.
 
 ```python
-import gym
+import gymnasium as gym
 import d4rl # Import required to register environments, you may need to also import the submodule
 
 # Create the environment

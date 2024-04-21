@@ -3,7 +3,7 @@ import re
 
 import h5py
 import torch
-import gym
+import gymnasium as gym
 import d4rl
 import numpy as np
 

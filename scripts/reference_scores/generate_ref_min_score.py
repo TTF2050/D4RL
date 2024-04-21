@@ -4,7 +4,7 @@ policy over 100 episodes.
 """
 import d4rl
 import argparse 
-import gym
+import gymnasium as gym
 import numpy as np
 
 

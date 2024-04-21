@@ -1,5 +1,5 @@
 import d4rl
-import gym
+import gymnasium as gym
 from d4rl.carla import data_collection_agent_lane
 import numpy as np
 import argparse

@@ -1,7 +1,7 @@
 """
 A quick script to run a sanity check on all environments.
 """
-import gym
+import gymnasium as gym
 import d4rl
 import numpy as np
 

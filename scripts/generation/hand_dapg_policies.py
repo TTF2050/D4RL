@@ -2,7 +2,7 @@ import d4rl
 import click 
 import h5py
 import os
-import gym
+import gymnasium as gym
 import numpy as np
 import pickle
 import collections

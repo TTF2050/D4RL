@@ -1,8 +1,7 @@
-import gym
+import gymnasium as gym
 import d4rl
 import click 
 import os
-import gym
 import numpy as np
 import pickle
 from mjrl.utils.gym_env import GymEnv

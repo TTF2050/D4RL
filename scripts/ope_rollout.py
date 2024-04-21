@@ -3,7 +3,7 @@ This script runs rollouts on the OPE policies
 using the ONNX runtime and averages the returns.
 """
 import d4rl
-import gym
+import gymnasium as gym
 import sys
 import onnx
 import onnxruntime as ort

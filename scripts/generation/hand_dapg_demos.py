@@ -1,7 +1,7 @@
 import d4rl
 import click 
 import os
-import gym
+import gymnasium as gym
 import numpy as np
 import pickle
 import h5py

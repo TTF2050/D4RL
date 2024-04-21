@@ -1,7 +1,7 @@
 """Script for generating the datasets for kitchen environments."""
 import d4rl.kitchen
 import glob
-import gym
+import gymnasium as gym
 import h5py
 import numpy as np
 import os

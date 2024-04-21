@@ -1,4 +1,4 @@
-import gym
+import gymnasium as gym
 import logging
 from d4rl.pointmaze import waypoint_controller
 from d4rl.pointmaze import maze_model
